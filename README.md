@@ -245,17 +245,10 @@ Known Limitations:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Contact
 
 Ricardo Manriquez
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@your_username](https://github.com/your_username)
+https://www.linkedin.com/in/rman1988/
 
 ---
 
