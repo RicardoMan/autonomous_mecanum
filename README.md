@@ -16,7 +16,7 @@ Create a fully autonomous mecanum wheel robot capable of omnidirectional movemen
 |------|-------------|--------|
 | 1 | Wireless Control (micro-ROS + WiFi) | Complete |
 | 2 | Encoder Odometry | Complete |
-| 3 | IMU Integration | In Progress |
+| 3 | IMU Integration | Complete |
 | 4 | RViz Visualization | Pending |
 | 5 | Sensor Fusion (EKF) | Pending |
 | 6 | SLAM | Pending |
@@ -237,7 +237,7 @@ Known Limitations:
 
 - [x] Step 1: Wireless control via micro-ROS
 - [x] Step 2: Encoder-based odometry
-- [ ] Step 3: IMU integration (SparkFun ISM330DHCX)
+- [x] Step 3: IMU integration (SparkFun ISM330DHCX)
 - [ ] Step 4: RViz visualization with 3D model
 - [ ] Step 5: Sensor fusion with EKF
 - [ ] Step 6: SLAM implementation
